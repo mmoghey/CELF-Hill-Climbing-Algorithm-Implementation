@@ -1,0 +1,17 @@
+Name : Manasee Moghey
+Student ID : 01557386
+email : manasee_moghey@student.uml.edu
+
+1. plot included: 'Degree Distribution.png'
+In the collaboration network, the expected excess degree is 
+much larger than the expected degree. This is because our 
+co-authors have more co-authors than us as people who publish 
+with many others are counted often.
+
+2. Average clustering coefficient for each network
+Clustering Coefficient for Small World Network: 0.304914
+Clustering Coefficient for Collaboration Network: 0.611483
+
+3. plots attached 'colabnet.png' 'SmallWorld.png'
+The outputs shows that CELF gets the highest influence when the K increases followed by
+targeted high degree centrality and random comes the last.
